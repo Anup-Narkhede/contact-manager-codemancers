@@ -2,4 +2,4 @@
 
 <h3>Deployment Link:<h3/>
 
-https://murmuring-headland-68939.herokuapp.com/api/v1/contact
+https://murmuring-headland-68939.herokuapp.com/
