@@ -1,0 +1,30 @@
+.main {
+  margin-top: 5em;
+}
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+.search .input {
+  margin: 1.5rem 0;
+  width: 100%;
+}
+.search .prompt {
+  border-radius: 0.28571429rem !important;
+}
+
+.item {
+  padding: 1rem 0rem !important;
+}
+
+.icon {
+  float: right;
+  cursor: pointer;
+  margin-left: 0.5rem !important;
+}
+.center-div {
+  text-align: center;
+}
+.btn-space {
+  margin-bottom: 0.5rem !important;
+}
